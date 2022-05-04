@@ -10,19 +10,19 @@ export class AppComponent {
     {
       title: 'Neat Tree',
       imageUrl: 'assets/tree.jpeg',
-      username: 'nature',
+      username: '@nature',
       content: 'Saw this awesome tree during my hike today'
     },
     {
       title: 'Snowy Mountain',
       imageUrl: 'assets/mountain.jpeg',
-      username: 'mountainlover',
+      username: '@mountainlover',
       content: 'Here is a picture of a snowy moutain'
     },
     {
       title: 'Mountain Biking',
       imageUrl: 'assets/biking.jpeg',
-      username: 'biking12222',
+      username: '@biking12222',
       content: 'I did some biking today'
     }
   ]
